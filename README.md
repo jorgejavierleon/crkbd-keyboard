@@ -6,6 +6,9 @@ personal layout mainly for programming
 this layout uses a standard QWERTY layout on the default layer followed by a
 separate layer for symbols and numbers 
 
+To generate the json 
+`qmk c2json -kb crkbd/rev1 -km jorgejavierleon -o myjson.json ~/qmk_firmware/keyboards/crkbd/keymaps/jorgejavierleon/keymap.c`
+
 ### thumb cluster: left
 
 
