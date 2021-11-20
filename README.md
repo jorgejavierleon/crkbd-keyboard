@@ -1,6 +1,11 @@
 # jorgejavierleon crkbd layout
 personal layout mainly for programming
 
+## to compile 
+`qmk compile`
+Put Your Keyboard into DFU
+`qmk flash`
+
 ## layout notes
 
 this layout uses a standard QWERTY layout on the default layer followed by a
